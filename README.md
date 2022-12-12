@@ -15,7 +15,6 @@ I'm passionate about science🔬, technology 🖥️ and music🎵.
 # Things I've made :
 
 - [Portfolio site](https://durandarthur.vercel.app)
-- [GitHub Pages site](https://durandarthur.github.io)
 
 # Where I've worked :
 
