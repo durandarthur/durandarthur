@@ -6,7 +6,7 @@ I'm passionate about science🔬, technology 🖥️ and music🎵.
 
 |                    |                                                        |                      |
 | --- | ------------ | --- |
-|                    | ![](https://durandarthur.vercel.app/images/photo.webp) |                      |
+|                    | ![]([https://durandarthur.vercel.app/images/photo.webp](https://durandarthur.github.io/IMG_2009%20-%20Copy%20-%20Copy%20(Phone).JPG)) |                      |
 |                    |                                                        |                      |
 
 |   [LinkedIn](https://www.linkedin.com/in/arthur-durand-0967741b9/)  |  [Resume](https://resume.io/r/JvHXOVo7W)   |   [Portfolio](https://durandarthur.vercel.app)  |
