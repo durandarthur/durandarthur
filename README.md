@@ -2,6 +2,9 @@
 
 ## Hi ! I'm Arthur. Web developer and digital craftsman. <br/>I'm passionate about science🔬, technology 🖥️ and music🎵.
 
+|   [LinkedIn](https://www.linkedin.com/in/arthur-durand-0967741b9/)  |  [Resume](https://resume.io/r/JvHXOVo7W)   |   [Portfolio](https://durandarthur.vercel.app)  |
+| --- | --- | --- |
+
 # Things I've made :
 
 - [Portfolio site](https://durandarthur.vercel.app)
