@@ -1,7 +1,6 @@
 # 💫 About Me:
 
-Hi ! I'm Arthur. Web developer and digital craftsman. <br/>
-I'm passionate about science🔬, technology 🖥️ and music🎵.
+## Hi ! I'm Arthur. Web developer and digital craftsman. <br/>I'm passionate about science🔬, technology 🖥️ and music🎵.
 
 
 |                    |                                                        |                      |
