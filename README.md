@@ -24,7 +24,7 @@
 ## Oclock (12/22 - 04/24)
 >Online web developer course, with apprenticeship
 >**(1 week in class / 2 weeks in a company)**
->Acquired skills: PHP, Node, Vue.js, containers, unit testing, design patterns, SoC, web security, desktop apps, DevOps
+>Acquired skills: PHP, Node, Vue.js, containers with Docker, unit testing, design patterns, SoC, web security, desktop apps with Flutter, DevOps
 
 ## Personal project  - Gap year(2021 - 2022)
 >Made a website with React and Next.js, linked to a postgres database with CRUD functions.
