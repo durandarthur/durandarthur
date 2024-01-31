@@ -8,7 +8,7 @@
 # Things I've made :
 
 - [Portfolio site](https://durandarthur.vercel.app)
-- [Oraclette (front)](oraclette.com)
+- [Oraclette (front)](https://oraclette.com)
 
 # 💻Some techs I use :
 
