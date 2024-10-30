@@ -2,7 +2,7 @@
 
 ## Hi ! I'm Arthur. Web developer and digital craftsman. <br/>I'm passionate about technology 🖥️ and music🎵.
 
-|   [LinkedIn](https://www.linkedin.com/in/arthur-durand-0967741b9/)  |  [Resume](https://resume.io/r/JvHXOVo7W)   |   [Portfolio](https://durandarthur.vercel.app)  |
+|   [LinkedIn](https://www.linkedin.com/in/arthur-durand-0967741b9/)  |  [Resume](https://rxresu.me/durandarthur/cv-arthur-durand-2024)   |   [Portfolio](https://durandarthur.vercel.app)  |
 | --- | --- | --- |
 
 # Things I've made :
