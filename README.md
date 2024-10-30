@@ -39,4 +39,5 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=durandarthur&theme=dark&hide_border=true)<br/>
+| ![](https://github-readme-streak-stats.herokuapp.com/?user=durandarthur&theme=dark&hide_border=true)<br/> | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=durandarthur&layout=compact&title_color=fb8c00&bg_color=151515&text_color=fefefe&hide_border=true) |
+|---|---|
