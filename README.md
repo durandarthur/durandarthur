@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&center=true&vCenter=true&width=600&height=100&lines=Hi+there+!;Looking+for+a+developer+%3F;Here's+what+I+can+offer%3A" alt="Typing SVG" /></a>
+</p>
+
 # 💫 About Me:
 
 ## Hi ! I'm Arthur. Web developer and digital craftsman. <br/>I'm passionate about technology 🖥️ and music🎵.
