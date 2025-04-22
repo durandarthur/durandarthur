@@ -12,7 +12,7 @@
 # Things I've made :
 
 - [Portfolio site](https://durandarthur.vercel.app)
-- [Oraclette (front)](https://oraclette.com)
+- [Fanfiction.net rework](https://demo.fanfiction-rework.com)
 
 # 💻Some techs I use :
 ## Frontend:
