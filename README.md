@@ -2,7 +2,7 @@
 
 Web developer. I work across the stack, from interface design to deployment. Outside of code, I'm passionate about music.
 
-[LinkedIn](https://www.linkedin.com/in/arthur-durand-0967741b9/) · [Resume](https://rxresu.me/durandarthur/cv-arthur-durand-2024) · [Portfolio](https://durandarthur.vercel.app)
+[LinkedIn](https://www.linkedin.com/in/arthur-durand-0967741b9/) · [Resume](https://rx.cv/durandarthur/cv-arthur-durand-2026-2) · [Portfolio](https://durandarthur.vercel.app)
 
 ## Projects
 
