@@ -1,92 +1,49 @@
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&center=true&vCenter=true&width=600&height=100&lines=Looking+for+a+developer+%3F;Here's+what+I+can+offer%3A" alt="Typing SVG" /></a>
-</p>
+# Arthur Durand
 
-# About Me:
+Web developer. I work across the stack, from interface design to deployment. Outside of code, I'm passionate about music.
 
-## I'm Arthur. Web developer and digital craftsman. <br/>I'm passionate about technology 🖥️ and music🎵.
+[LinkedIn](https://www.linkedin.com/in/arthur-durand-0967741b9/) · [Resume](https://rxresu.me/durandarthur/cv-arthur-durand-2024) · [Portfolio](https://durandarthur.vercel.app)
 
-|   [LinkedIn](https://www.linkedin.com/in/arthur-durand-0967741b9/)  |  [Resume](https://rxresu.me/durandarthur/cv-arthur-durand-2024)   |   [Portfolio](https://durandarthur.vercel.app)  |
-| --- | --- | --- |
+## Projects
 
-# Things I've made :
-
-- [Portfolio site](https://durandarthur.vercel.app)
+- [Portfolio](https://durandarthur.vercel.app)
 - [Fanfiction.net rework](https://demo.fanfiction-rework.com)
 - [stlounge](https://github.com/durandarthur/stlounge)
 
-# 💻Some techs I use :
-## Frontend:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nextjs,sass,bootstrap,materialui,vuetify,tailwind&perline=5" />
-  </a>
-</p>
+## Tech Stack
 
-## Backend:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,adonis,postgresql,sqlite,prisma&perline=5" />
-  </a>
-</p>
+I removed this section off my profile.
+Post-AI SWE isn't about tech stack anymore.
 
-## Deployment:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nginx,docker,arch,bash,aws&perline=5" />
-  </a>
-</p>
+## Experience
 
-## UI Design / Mockups:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,ai,ps&perline=3" />
-  </a>
-</p>
+### Kalisio — Web Designer & Developer
+Vue component development, end-to-end testing with Puppeteer, and backend work on a Feathers.js / Node.js / MongoDB stack. Some of this work is in use at Airbus and at the French Nuclear Safety and Radiation Protection Authority (ASNR).
 
-## Project Management:
-<p align="center">
-  <img src="https://img.shields.io/badge/GIT-orange?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/GITHUB%20PROJECTS-black?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/TRELLO-blue?style=for-the-badge&logo=trello" />
-</p>
+### Fuvi Clan — Software Engineer
+Web service for DJs (under NDA).
+- Full-stack development with Vue and Laravel
+- AI integration
+- AWS SQS and S3 integration in Python (boto3)
 
-# Where I've worked :
-## Kalisio
-### Web Designer and Developer
->I'm building Vue components, tests with Puppeteer, and doing backend stuff with a Feathers.js/Node/Mongo stack.
->Some of the stuff I've worked on is getting used by Airbus and the French Authority of Nuclear Safety (ASNR).
+### Creapli — Full-stack Developer
+Web application for jewellery accounting, built with C#, JavaScript and SQL Server. Client confidential.
 
-## Fuvi Clan
-### Software Engineer
->I built a webservice for DJs. Under NDA.
-> - Fullstack dev with Vue and Laravel
-> - AI implementation
-> - AWS SQS and AWS S3 dev using BOTO3 (Python)
+## Education
 
-## Creapli
-### Fullstack developer
->I developed a web application with C#, JS and SQL Server, used in jewellery accounting (client company is confidential).
+### O'clock — Web Development Program · Dec 2022 – Apr 2024
+Online program with apprenticeship, alternating one week of class and two weeks in a company. Graduated.
+Covered PHP, Node.js, Vue.js, Docker, unit testing, design patterns, separation of concerns, web security, desktop apps with Flutter, and DevOps.
 
-# Where I've studied:
+### Personal project · 2021 – 2022
+Gap year spent building a forum-style platform for publishing and browsing project ideas, with React, Next.js and PostgreSQL.
 
-## Oclock (12/22 - 04/24) - Graduated
->Online web developer course, with apprenticeship
->**(1 week in class / 2 weeks in a company)**
->Acquired skills: PHP, Node, Vue.js, containers with Docker, unit testing, design patterns, SoC, web security, desktop apps with Flutter, DevOps
+### CESI Engineering School · 2019 – 2021
+C/C++, SQL, PHP, data structures, sorting algorithms and algorithmic complexity.
 
-## Personal project  - Gap year(2021 - 2022)
->Made a website with React and Next.js, linked to a postgres database with CRUD functions.
->Allows the publishing of project ideas and to look them up in similar fashion as a forum.
+### Technical high school · 2017 – 2019
+IT track.
 
-## CESI Engineer college (2019 - 2021)
->C/C++, SQL, PHP, Data Structures, sorting algorithms/algorithm performance
+## GitHub stats
 
-## Technical highschool  (2017 - 2019)
->IT major
-
-# 📊 GitHub Stats:
-
-| ![](https://github-readme-streak-stats.herokuapp.com/?user=durandarthur&theme=dark&hide_border=true)<br/> | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=durandarthur&layout=compact&title_color=fb8c00&bg_color=151515&text_color=fefefe&hide_border=true) |
-|---|---|
+![](https://github-readme-streak-stats.herokuapp.com/?user=durandarthur&theme=dark&hide_border=true)
