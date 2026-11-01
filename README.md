@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&center=true&vCenter=true&width=600&height=100&lines=Hi+there+!;Looking+for+a+developer+%3F;Here's+what+I+can+offer%3A" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&center=true&vCenter=true&width=600&height=100&lines=Looking+for+a+developer+%3F;Here's+what+I+can+offer%3A" alt="Typing SVG" /></a>
 </p>
 
-# 💫 About Me:
+# About Me:
 
-## Hi ! I'm Arthur. Web developer and digital craftsman. <br/>I'm passionate about technology 🖥️ and music🎵.
+## I'm Arthur. Web developer and digital craftsman. <br/>I'm passionate about technology 🖥️ and music🎵.
 
 |   [LinkedIn](https://www.linkedin.com/in/arthur-durand-0967741b9/)  |  [Resume](https://rxresu.me/durandarthur/cv-arthur-durand-2024)   |   [Portfolio](https://durandarthur.vercel.app)  |
 | --- | --- | --- |
@@ -71,7 +71,7 @@
 
 # Where I've studied:
 
-## Oclock (12/22 - 04/24) - Graduated ! :)
+## Oclock (12/22 - 04/24) - Graduated
 >Online web developer course, with apprenticeship
 >**(1 week in class / 2 weeks in a company)**
 >Acquired skills: PHP, Node, Vue.js, containers with Docker, unit testing, design patterns, SoC, web security, desktop apps with Flutter, DevOps
