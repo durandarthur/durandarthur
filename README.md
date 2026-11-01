@@ -13,6 +13,7 @@
 
 - [Portfolio site](https://durandarthur.vercel.app)
 - [Fanfiction.net rework](https://demo.fanfiction-rework.com)
+- [stlounge](https://github.com/durandarthur/stlounge)
 
 # 💻Some techs I use :
 ## Frontend:
@@ -52,10 +53,10 @@
 </p>
 
 # Where I've worked :
-## Kalisio *<-- CURRENTLY HERE*
+## Kalisio
 ### Web Designer and Developer
 >I'm building Vue components, tests with Puppeteer, and doing backend stuff with a Feathers.js/Node/Mongo stack.
->Some of the stuff I'm working on will get used by Airbus and the French Authority of Nuclear Safety (ASNR).
+>Some of the stuff I've worked on is getting used by Airbus and the French Authority of Nuclear Safety (ASNR).
 
 ## Fuvi Clan
 ### Software Engineer
